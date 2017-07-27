@@ -1,0 +1,11 @@
+{
+  "name": "full-page-wheeler-js",
+  "version": "1.0.0",
+  "description": "Full page wheeler",
+  "main": "full-page-wheeler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "algirdas@diavlo.lt",
+  "license": "ISC"
+}
